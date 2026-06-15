@@ -13,7 +13,7 @@ Features
   
 Technologies Used
 - React.js
-- JavaScript (ES6+)
+- JavaScript
 - CSS3
 - Vite
 
